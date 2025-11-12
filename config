@@ -1,0 +1,13 @@
+# Default GitHub key (for Atomic-next)
+Host github.com
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_ed25519
+    IdentitiesOnly yes
+
+# Custom key for Portfolio project
+Host github-portfolio
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_ed25519_portfolio
+    IdentitiesOnly yes

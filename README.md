@@ -46,4 +46,4 @@ Henry Ofon
 Github (@CosmicToadfish)
 🌍 Cameroon
 💼 Software Engineer | Web Developer | Tech Enthusiast
-📫 Reach me at: your-email@example.com
+📫 Reach me at: henryofon01@gmail.com
